@@ -7,7 +7,7 @@
         
 <p align="center">
   <img
-    src="https://github.com/script-kiddie-005/Security-Testing-Playbook/blob/main/images/2.jpg?raw=true" width=8000 height=400>
+    src="https://github.com/script-kiddie-005/Security-Testing-Playbook/blob/main/images/3.png?raw=true" width=8000 height=400>
 </p>
         
             	
