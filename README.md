@@ -21,7 +21,8 @@
                 4.Misconfigured DNS exposes internal assets
 <p align="center">
   <img
-    src=""
+    src="https://github.com/script-kiddie-005/script-kiddie-005/blob/main/CS_img.jpeg?raw=true" width=1000 height=200>
+</p>
                 
         Well-known ports (0–1023)
         Registered ports (1024–49151)
